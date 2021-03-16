@@ -59,4 +59,7 @@ def stats(ign, profile, api):
 key = 'YOUR_API_KEY_HERE'
 profile_name = 'papaya'
 
+"""
+Example:
 stats('vndb', profile_name, key)
+""""
